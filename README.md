@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey visitor! 👋 
+
+I am Meraj, a senior year Mechanical Engineering + Computer Science student in UNIST, South Korea. I am currently learning various machine learning algorithms and applying them on different ideas. 
+
+Feel free to contact me!
 
 ![](https://komarev.com/ghpvc/?username=meraccos)
 
