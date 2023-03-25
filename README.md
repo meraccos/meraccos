@@ -1,4 +1,4 @@
-Hi there! I'm Meraj, an aspiring robotics engineer with a passion for developing innovative solutions in the field of robotics and reinforcement learning. My expertise lies in simulation environments, control algorithms, and UAV systems. I enjoy tackling complex problems and learning new skills to expand my knowledge in the ever-evolving world of technology. Don't hesitate to reach out if you have any questions or are interested in working together!
+Hi there! I'm Meraj, an aspiring robotics engineer with a passion in the fields of robotics and reinforcement learning. I have experience in simulation environments, control algorithms, and UAV systems. Don't hesitate to reach out if you have any questions or are interested in working together!
 
 
 
