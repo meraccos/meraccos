@@ -1,8 +1,6 @@
-### Hey visitor! 👋 
+Hi there! I'm Meraj, an aspiring robotics engineer with a passion for developing innovative solutions in the field of robotics and reinforcement learning. My expertise lies in simulation environments, control algorithms, and UAV systems. I enjoy tackling complex problems and learning new skills to expand my knowledge in the ever-evolving world of technology. Don't hesitate to reach out if you have any questions or are interested in working together!
 
-I am Meraj, a senior year Mechanical Engineering + Computer Science student in UNIST, South Korea. I am currently learning various machine learning algorithms and applying them on different ideas. 
 
-Feel free to contact me!
 
 ![](https://komarev.com/ghpvc/?username=meraccos)
 
