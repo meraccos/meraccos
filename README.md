@@ -1,6 +1,4 @@
-Hi there! I'm Meraj, an aspiring robotics engineer with a passion in the fields of robotics and reinforcement learning. I have experience in simulation environments, control algorithms, and UAV systems. Don't hesitate to reach out if you have any questions or are interested in working together!
-
-Hi, I'm Meraj! I'm currently focusing on reinforcement learning and robotics, especially in the context of UAVs. I enjoy working on autonomous systems and simulation environments. I appreciate the open-source community and love collaborating on interesting projects. Feel free to reach out if you want to work together or discuss any of my repos!
+Hi, I'm Meraj! I'm currently focusing on reinforcement learning and robotics, especially in the context of UAVs. I enjoy working on autonomous systems and simulation environments. Feel free to reach out if you want to work together or discuss any of my repos!
 
 ![](https://komarev.com/ghpvc/?username=meraccos)
 
