@@ -1,4 +1,7 @@
-Hi, I'm Meraj! I'm currently focusing on reinforcement learning and robotics, especially in the context of UAVs. I enjoy working on autonomous systems and ML applications of it. Feel free to reach out if you want to work together or discuss any of my repos!
+Welcome, I am Meraj! 
+I am currently focusing on reinforcement learning and and its application on robotics, especially in the context of UAVs. 
+I enjoy seeing how statistics and rigorous math actually work and give awesome results once poured into my code.
+Feel free to reach out if you want to work together or discuss any of my repos!
 
 ![](https://komarev.com/ghpvc/?username=meraccos)
 
